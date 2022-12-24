@@ -26,7 +26,7 @@ Gunakan bot ini dengan risiko Anda sendiri, dan gunakan bot ini dengan bijak.
 
 ## 🛡 Installation
 ### Deploy on Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://risman.vercel.app/file-deploy.html)</br>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://https://github.com/paradise8888/File-Sharing-Top)</br>
 
 **Tonton Video Tutorial Ini di YouTube untuk Bantuan memasang di Heroku**<br>
 <a href="https://youtu.be/O2tieQgzYZg">
@@ -36,8 +36,8 @@ Gunakan bot ini dengan risiko Anda sendiri, dan gunakan bot ini dengan bijak.
 ### Deploy On VPS
 - git clone https://github.com/paradise8888/File-Sharing-Top
 - cd File-Sharing-Top
-- pip
-- nano config.env
+- pip3 install -r requirements.txt
+- nano config.env ( untuk merubah vars )
 - bash start
 
 
